@@ -15140,7 +15140,7 @@
 <tokenfield bigendian="true" signbit="false" bitstart="3" bitend="13" bytestart="0" byteend="1" shift="3"/>
 </value_sym>
 <value_sym name="i16_uimm4_2" id="0x8d6" scope="0x0">
-<tokenfield bigendian="true" signbit="false" bitstart="4" bitend="2" bytestart="1" byteend="1" shift="4"/>
+<tokenfield bigendian="true" signbit="false" bitstart="2" bitend="4" bytestart="1" byteend="1" shift="2"/>
 </value_sym>
 <value_sym name="i16_uimm4_12" id="0x8d7" scope="0x0">
 <tokenfield bigendian="true" signbit="false" bitstart="4" bitend="11" bytestart="0" byteend="1" shift="4"/>
@@ -15385,7 +15385,7 @@
 <tokenfield bigendian="true" signbit="false" bitstart="3" bitend="13" bytestart="1" byteend="2" shift="3"/>
 </value_sym>
 <value_sym name="i24_uimm4_2" id="0x8fd" scope="0x0">
-<tokenfield bigendian="true" signbit="false" bitstart="4" bitend="2" bytestart="2" byteend="2" shift="4"/>
+<tokenfield bigendian="true" signbit="false" bitstart="2" bitend="4" bytestart="2" byteend="2" shift="2"/>
 </value_sym>
 <value_sym name="i24_uimm4_12" id="0x8fe" scope="0x0">
 <tokenfield bigendian="true" signbit="false" bitstart="4" bitend="12" bytestart="1" byteend="2" shift="4"/>
